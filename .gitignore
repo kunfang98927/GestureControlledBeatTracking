@@ -1,0 +1,14 @@
+beatroot*
+demo*
+reading*
+madmom/
+.ipynb_checkpoints
+
+*.ipynb
+*.pyc
+
+dataset/audio
+dataset/annotations
+dataset/madmom_outputs
+
+notes.md
